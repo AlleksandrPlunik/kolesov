@@ -1,0 +1,94 @@
+html { margin:0; padding:0;}
+body { margin:0; padding:24px;
+  background: url("../images/all_fon.jpg")repeat left top;
+  color: #333333; font:normal 13px/20px Helvetice, Arial, sans-serif;
+}
+.clear { clear:both;}
+p { margin:0; padding:10px 0;}
+a { color:#0000ff;}
+a img { border:none;}
+h1, h2, h3, h4, h5, h6 { margin:0; padding:0; font-weight:bold; color:#000;}
+h1 { line-height:1.4em;}
+strong { font-weight:bold;}
+em { font-style:italic;}
+form, menu, iframe { display:block; margin:0; padding:0; border:none;}
+ol, ul, dl, li, dt, dd { margin:0; padding:0; list-style:none;}
+* { outline:none;}
+body div .logo a { color: #023875;
+    font-size: 24pt;
+  text-decoration: none;
+  line-height:50px;
+
+
+}
+p { color: black;
+  font-size: 13pt;
+  }
+strong {font-size: 48pt;}
+.kol { font-size: 48pt;
+  text-decoration: none;
+  color: #023875;
+  }
+h1 { color: #023875;
+  font-size: 24pt;
+  margin: 0;
+  overflow: hidden;
+  padding:5px 0 15px 0px;
+}
+.logo{ text-decoration: none;
+  padding: 20px;
+  border: 1px transparent;
+  float: left;
+  width: 540px;
+  line-height:20px;
+}
+a {
+  color: #023875;
+  }
+.phone {float: right;padding: 10px}
+div .phone p a {font-size: 24pt;float: right;padding: 10px;text-decoration: none;}
+div .menu p{
+  background: #023875;
+  color: white;
+  width: 300px;
+  padding: 10px;
+  text-align: center;}
+.footer p { font-size: 14pt;
+  color: white;
+  background: #023875;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.conteiner {width: 960px;
+  margin: auto;
+  background: white;
+  border: 1px solid transparent;
+}
+.content { border: 1px solid transparent;
+  width: 960px;
+}
+.header_block {background: #023875;
+  padding: 6px 20px;
+  border-radius: 5px;
+  margin: 0;}
+.foto {
+  padding: 15px;
+  }
+.menu {width: 320px;
+  float: right;
+  padding: 10px;}
+.text {
+  width: 600px;
+  border: 1px transparent;
+  float: left;
+padding: 5px 5px 110px 5px; }
+.logo img {
+  float: right;
+  padding: 20px 10px 20px 0px;
+}
+a .logo {
+  float: left;
+  width: 550px;
+}
+p .text { font-size: 13pt; }
+ul {padding: 20px;font-size: 14pt;line-height: 35px;}
